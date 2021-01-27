@@ -5,7 +5,7 @@ My journey creating a pinball arcade game from scratch
 This repo is not supposed to be any type of guide to how anyone **should** build or even repair a pinball machine! Rather, this is my journey to making one.
 
 # Why does this exist?
-I guess I have too much spare time on my hands... I am a 23 year old machine learning developer looking to pass some time, and i **love** creating things, bonus points if I can learn something along the way. Before we start, I want to add that I know barely anything about electronics or pinball machines, (If you've found this repo on your own this probably means you know a lot more about electronics and pinball machines than me). So if you feel like I'm about to electrocute myself make a issue explaining your concerns :D
+I guess I have too much spare time on my hands... I am a 23 year old machine learning developer looking to pass some time, and I **love** creating things, bonus points if I can learn something along the way. Before we start, I want to add that I know barely anything about electronics or pinball machines, (If you've found this repo on your own this probably means you know a lot more about electronics and pinball machines than me). So if you feel like I'm about to electrocute myself make a issue explaining your concerns :D
 
 # Is this all there is?
 This repo started out as a single markdown file, however it quickly outgrew what seemed a reasonable size to read through.

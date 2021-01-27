@@ -11,7 +11,8 @@ I guess I have too much spare time on my hands... I am a 23 year old machine lea
 Where do we even begin... I think a good start is why I want to make a pinball machine!
 I think it begun with a image like this:
 ![Image of pinball part](https://lh3.googleusercontent.com/proxy/3aMRH_PUUcJp-Ba_dLPP5OP7MFL-Rfubt07uwJyXcvG3z9zjtrJOyp1QxXFzm2kD1Gy_moHBQC2hg6xzEEs)
-which lead me to reading some on the mechanics of binball machines, who knew they run almost exclusively on solenoids?! I guess thats all I needed to become obsessed with pinball machines, or rather with the mechanics behind pinball machines.
+
+which lead me to reading some on the mechanics of pinball machines, who knew they run almost exclusively on solenoids?! I guess thats all I needed to become obsessed with pinball machines, or rather with the mechanics behind pinball machines.
 
 This seems like a good moment to talk about what I expect to achieve with this project. If I'm being honest with myself, and perhaps more importantly npw when I'm writing this, you, the reader, this project is doomed to fail just as so many others have since I'm more interested in the workings underneath a pinball machine rather than actually owning one. 
 I'll still say the magic words though: "I will complete this project".

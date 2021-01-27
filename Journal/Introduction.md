@@ -19,6 +19,7 @@ Anyways, I digress...
  Im making my own pinball machine!
  First step is to create a solenoid. If you know as little about electronics as me you might ask yourself what a solenoid is. Worry not, I got you covered!
  ![Image of spool mechanics](https://www.justscience.in/wp-content/uploads/2017/05/HOW-DOES-A-SOLENOID-WORK.jpg)
+ 
  I won't go too much into detail, if you are interested: read up on it! It is a spool of insulated copper wire which creates a magnetic field when electricity is applied, the magnetic field can then move a iron rod. This is the basic principle that powers the entire machine. The force of the moving iron rod is transferred into various motions that make the different parts of the machine move.
 
  Anyways, since I'm not allowed to buy a pre-assembled one I need copper wire!

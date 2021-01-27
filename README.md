@@ -14,3 +14,5 @@ The current structure of the documentation is as following.
 /Journal will contain my text entries as I progress with the project. I have a vision of keeping them organized as one entry per discovery/mechanic, though I believe it might end up differently...
 
 Hope you enjoy the read!
+
+**Note**: I'm finding a lot of spelling mistakes already. I'm writing this on a new split keyboard (dactyl manudox if interested) and I'm not used to it yet, have mercy.

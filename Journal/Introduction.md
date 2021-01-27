@@ -18,7 +18,7 @@ Anyways, I digress...
  # It's decided
  Im making my own pinball machine!
  First step is to create a solenoid. If you know as little about electronics as me you might ask yourself what a solenoid is. Worry not, I got you covered!
- ![Image of spoole mechanics](https://www.justscience.in/wp-content/uploads/2017/05/HOW-DOES-A-SOLENOID-WORK.jpg)
+ ![Image of spool mechanics](https://www.justscience.in/wp-content/uploads/2017/05/HOW-DOES-A-SOLENOID-WORK.jpg)
  I won't go too much into detail, if you are interested: read up on it!
  Anyways, since I'm not allowed to buy a pre-assembled one I need copper wire!
  I could not find any place in Sweden that sold insulated copper wire in the quantities that I needed, at least not without getting some one-off deal with some company. I checked aliexpress which is my usual go-to when it comes to electronic parts but the price was surprizingly high and shipping was a no-go! Finally I found [ScientificWire](https://www.scientificwire.com/) which sold the right wire at what seemed like a decent price. There was just one little problem... The minimum order was quite large. Well, some spare copper wire has never hurt anyone.

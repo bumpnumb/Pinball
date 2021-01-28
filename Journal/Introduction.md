@@ -42,14 +42,22 @@ What more do we need?
 
 
 I figured this would be the bare minimum needed to create a solenoid. **I was wrong**
+
 The power supply was bought from aliexpress, wires were bought from a local store (Kjell & co) and I already had the diodes I needed. The iron rods proved to be elusive for me, some stainless steel rods will apparently work but will eventually become permanently magnetized and thus no longer work, I wanted the real deal. To make a already long story short, I got them quite expensivley from aliexpress.
 
+
 Great now we got everything, lets go?
+
 Not so fast young reader. We still need something to hold the copper wire on, a bobbin.
+
 Luckily I own a 3D printer and with the dimensions from [Pinside](https://pinside.com/pinball/forum/topic/coil-dimensions) I swiftly reqreated a solenoid bobbin:
 ![Image of bobbin](https://i.imgur.com/AErI18O.jpg)
+
 Great! Now we can get somewhere!
+
 **Note**: All 3D models can be found in the models directory.
 
+
 Time to wind this bad boy.
+
 Thanks for reading **part[0]**!

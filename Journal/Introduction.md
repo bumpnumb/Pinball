@@ -2,7 +2,7 @@
 # Let's get started!
 Where do we even begin... I think a good start is why I want to make a pinball machine!
 I think it begun with an image like this:
-![Image of pinball part](https://lh3.googleusercontent.com/proxy/3aMRH_PUUcJp-Ba_dLPP5OP7MFL-Rfubt07uwJyXcvG3z9zjtrJOyp1QxXFzm2kD1Gy_moHBQC2hg6xzEEs)
+![Image of pinball part](https://pinballmakers.com/wiki/images/5/5c/Bally-slingshot-diagram.jpg)
 
 which lead me to reading some on the mechanics of pinball machines, who knew they run almost exclusively on solenoids?! I guess thats all I needed to become obsessed with pinball machines, or rather with the mechanics behind pinball machines.
 

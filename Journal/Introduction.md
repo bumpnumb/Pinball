@@ -51,7 +51,7 @@ Great now we got everything, lets go?
 
 Not so fast young reader. We still need something to hold the copper wire on, a bobbin.
 
-Luckily I own a 3D printer and with the dimensions from [Pinside](https://pinside.com/pinball/forum/topic/coil-dimensions) I swiftly reqreated a solenoid bobbin:
+Luckily I own a 3D printer and with the dimensions from [Pinside](https://pinside.com/pinball/forum/topic/coil-dimensions) I swiftly recreated a solenoid bobbin:
 ![Image of bobbin](https://i.imgur.com/AErI18O.jpg)
 
 Great! Now we can get somewhere!

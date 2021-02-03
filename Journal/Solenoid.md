@@ -32,7 +32,7 @@ Okay! Sounds like a plan, we'll figure out how to connect the different coils la
 
 # Many hours later!
 We saw the spool bobbin in the last chapter, but now there's wire on it too. Fancy!
-[Image of the first coil](https://i.imgur.com/TaxWT8W.jpg)
+![Image of the first coil](https://i.imgur.com/TaxWT8W.jpg)
 
 
 As the header suggests this took far longer than expected, IIRC it took 2 hours and I don't feel like doing this again.

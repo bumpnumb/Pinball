@@ -17,7 +17,7 @@ The stronger current passed through the coil the more heat will be generated, an
 # How do we work around the heat problem?
 Counter-intuitively solenoids become weaker with more turns of the coil! Confusing at first but it is simply due to the resistance getting higher with a longer wire.
 
-Alright, easy peasy! We reduce the numbers of turns on the coil..... Wait, that also reduces the power of the coil.
+Alright, easy peasy! We increase the numbers of turns on the coil..... Wait, that also reduces the power of the coil.
 
 Guess it wasn't so easy. 
 Okay, then what about this, coils that are 'one shot' as in only activated very briefly (such as shingshot and bumper) can be ignored, let's wind those to get the most power. We are currently more interested in the coils that need a 'hold' function, or in other words to be continousley used, but we also want them to have the power of a 'one shot' coil.

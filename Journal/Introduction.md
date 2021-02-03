@@ -11,6 +11,7 @@ I'll still say the magic words though: "I will complete this project".
 
 Before we go any further I want to step up the difficulty one level by adding a rule to the project:
 **Any part that I can make on my own I will create myself**
+
 However this does not mean I need to create my own metal sheets, or mine the ore required for that. Just that I won't buy parts half- or pre-assembled. For example: I will create my own spools for the solenoids. We'll get to those later on so don't worry if you dont know what that means.
 
 Anyways, I digress...

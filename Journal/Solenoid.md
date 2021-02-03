@@ -52,7 +52,7 @@ I wound two of them initially, with 400 and 600 turns respectively. When I got s
 That number wasn't pulled right out of my ass though, I got it from here: (Pinballmedic)[https://www.pinballmedic.net/coilchart.html] 
 **WARNING**: Not for the faint of heart! 
 
-But perhaps the most important thing to take away from that website is this: "It's not that important", coils on the website have pretty much all different wire dimensions and combinations of them. This is where I got the wire dimensions for the copper wire, I got most of my insperation from the Williams flipper coils because, convieniently, they advetrised the strength of the flippers (thank heaven for some understandable information in this sea of clutter!). 
+But perhaps the most important thing to take away from that website is this: "It's not that important", coils on the website have pretty much all different wire dimensions and combinations of them. This is where I got the wire dimensions for the copper wire, I got most of my insperation from the Williams flipper coils because, convieniently, they advetrised the strength of the flippers (thank heaven for some understandable information in this sea of clutter!). The wire dimensions are measured in AWG and they use a thick wire for the strong coil and a thin for the hold coil.
 
 I also got my power supply to almost match this specification. The Williams coils use 50V, and I got mine with 48V, close enough. I bought the beefiest supply I could find (which was still affordable) with 20 amps, netting a solid 1000 watts. (I guess that means 20.8 amps but don't be that guy)
 

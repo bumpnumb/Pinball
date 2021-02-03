@@ -24,7 +24,7 @@ Okay, then what about this, coils that are 'one shot' as in only activated very 
 
 Any ideas?
 
-Well, let's do both! We wind these coils with a strong (one shot) coil AND a weak (hold) coil. Then when activating the flipper we pass current in only the 'one shot' coil untill the flipper is fully extended, then we connect the weak coil in series to increase the resistance within the entire solenoid, reducing the power and heat generated. As the coil doesn't need to have a lot of power when fully extended, just enough to hold a ball up, this works superb!
+Well, let's do both! We wind these coils with a strong (one shot) coil AND a weak (hold) coil. When activating the flipper we pass current in only the 'one shot' coil untill the flipper is fully extended, then we connect the weak coil in series to increase the resistance within the entire solenoid, reducing the power and heat generated. As the coil doesn't need to have a lot of power when fully extended, just enough to hold a ball up, this works superb!
 (I should add that this is not my idea, this is how flipper solenoids usually work (unless doing pwm))
 
 Okay! Sounds like a plan, we'll figure out how to connect the different coils later on, for now let's do some winding! :D

@@ -32,7 +32,7 @@ Okay! Sounds like a plan, we'll figure out how to connect the different coils la
 
 # Many hours later!
 We saw the spool bobbin in the last chapter, but now there's wire on it too. Fancy!
-![Image of the first coil](https://i.imgur.com/TaxWT8W.jpg)
+[Image of the first coil](https://i.imgur.com/TaxWT8W.jpg)
 
 
 As the header suggests this took far longer than expected, IIRC it took 2 hours and I don't feel like doing this again.
@@ -40,7 +40,7 @@ As the header suggests this took far longer than expected, IIRC it took 2 hours 
 If I sound disheartened it's because I am! However, the solution to any problem is innovation, and it shal prevail!
 
 # Enter coil winder
-![Coil winder](https://imgur.com/zIKc4Ku)
+(Coil winder)[https://imgur.com/zIKc4Ku]
 
 Why spend 2 hours doing a task when I can spend the entire day automating it!
 There's really not too much to say about this thing. It's connected to a drill and makes my life a lot better! 3D model files can as always be found in /Models directory.
@@ -57,7 +57,7 @@ But perhaps the most important thing to take away from that website is this: "It
 I also got my power supply to almost match this specification. The Williams coils use 50V, and I got mine with 48V, close enough. I bought the beefiest supply I could find (which was still affordable) with 20 amps, netting a solid 1000 watts. (I guess that means 20.8 amps but don't be that guy)
 
 # Two months wait for the delivery and we're finally ready to launch!
-![Shit](https://imgur.com/9eK84gB)
+(Shit)[https://imgur.com/9eK84gB]
 
 **Shit**
 

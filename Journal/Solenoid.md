@@ -61,7 +61,7 @@ I also got my power supply to almost match this specification. The Williams coil
 
 **Shit**
 
-It moves ever so slightly and then my power supply turns of. With some answers in the pinside forum it seems like my power supply can't handle the change of voltage or something like that (I'm not quite sure yet) and from the power supplys perspective this seems like a short, it then turns of to protect itself.
+It moves ever so slightly and then my power supply turns of. With some answers in the pinside forum it seems like my power supply can't handle the change of voltage or something like that (I'm not quite sure yet) and from the power supplys perspective this seems like a short, it then turns off to protect itself.
 
 It was then recomended to me that I should use a capacitor bank connected before the solenoid.
 

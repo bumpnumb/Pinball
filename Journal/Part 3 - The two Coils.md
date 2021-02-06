@@ -89,7 +89,7 @@ Looks good I thought. There are some oscillations, but I think those are due to 
 
 I uploaded these gifs to imgur so show friends and family (I had talked about this at work for about half a year by this point and still had nothing to show) and some people commented on my gifs. How about that? I did not know that anyone casually browsed imgur for images, guess I was wrong again :)
 
-Anyways some people commented that the sparks were an issue that had to be fixed or the switches would eventually stop working. They recommended (among other ideas) to use TVS diodes. They are components used to reduce high voltage peaks, which would in theory remove the sparks.
+Anyways, some people commented that the sparks were an issue that had to be fixed or the switches would eventually stop working. They recommended (among other ideas) to use TVS diodes. They are components used to reduce high voltage peaks, which would in theory remove the sparks.
 
 I also had a look at the real leaf switches, they use contact points with silver or tungsten. I figured it was a good idea to get a few of those too, they were a lot harder to get compared to the diodes (which I got from digikey), I ended getting a few from [PBresource](http://www.pbresource.com/pfswitch.htm#common).
 

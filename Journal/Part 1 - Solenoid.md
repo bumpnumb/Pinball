@@ -57,7 +57,7 @@ But perhaps the most important thing to take away from that website is this: "It
 I also got my power supply to almost match this specification. The Williams coils use 50V, and I got mine with 48V, close enough. I bought the beefiest supply I could find (which was still affordable) with 20 amps, netting a solid 1000 watts. (I guess that means 20.8 amps but don't be that guy)
 
 # Two months wait for the delivery and we're finally ready to launch!
-![](/../Images/Shit.gif)
+![](https://raw.githubusercontent.com/bumpnumb/Pinball/main/Images/Shit.gif)
 
 **Shit**
 

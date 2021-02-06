@@ -88,4 +88,5 @@ Here we can see the range of the flipper, which I think is pretty good, and if I
 
 It feels really good to have something working!
 Next time we will have a look at that other coil I have been mentioning.
+
 Thanks for reading part[2]!

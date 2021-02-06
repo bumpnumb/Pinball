@@ -62,14 +62,17 @@ You may have noticed that I talked a bunch about using two coils for the flipper
 
 
 A few iterations later (and probably not the last one) I ended up with a design like this:
+
 ![](https://raw.githubusercontent.com/bumpnumb/Pinball/main/Images/Flipper_mount.PNG)
 
 I took heavy insperation from this image:
+
 ![](https://www.marcospecialties.com//images/products/500-5177-01/large.jpg)
 
 The prints took a few hours each but it was a pleasant experience, I printed during the days when I was working and tested/redesigned during the evenings.
 
 This is how it ended up all connected:
+
 ![](https://raw.githubusercontent.com/bumpnumb/Pinball/main/Images/Solenoid_working_2_slowmo.gif)
 
 I put a piece of tape to highlight the rotation.

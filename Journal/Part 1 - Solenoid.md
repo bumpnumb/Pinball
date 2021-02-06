@@ -40,7 +40,7 @@ As the header suggests this took far longer than expected, IIRC it took 2 hours 
 If I sound disheartened it's because I am! However, the solution to any problem is innovation, and it shal prevail!
 
 # Enter coil winder
-![](/../Images/Spool_winder.gif)
+![](https://raw.githubusercontent.com/bumpnumb/Pinball/main/Images/Spool_winder.gif)
 
 Why spend 2 hours doing a task when I can spend the entire day automating it!
 There's really not too much to say about this thing. It's connected to a drill and makes my life a lot better! 3D model files can as always be found in /Models directory.

@@ -56,7 +56,7 @@ Anyways it went pretty well and everything is now assembled, let us try it out!
 
 ![](https://raw.githubusercontent.com/bumpnumb/Pinball/main/Images/First_eos_test.gif)
 
-Looks pretty good, now it is just to connect the different coils and see if it overheats.
+Looks pretty good, now it is just to connect the different coils and see if it overheats. **Note**: The switch is connected in the wrong orientation in this image, being like this it is not normally closed like we need it to be. The next images will have the switch in the correct orientation!
 
 
 # Oops!

@@ -71,7 +71,7 @@ Well, no worries, I had another coil.
 
 So far we had been using the 600-turn coil. And now we will start using the 400-turn one.
 
-**Immediate problem** 
+**Immediate problem**: 
 Remember that the coil becomes stronger with fewer turns? If not this might be a friendly reminder:
 
 ![](https://raw.githubusercontent.com/bumpnumb/Pinball/main/Images/Solenoid_breaking_1.gif)

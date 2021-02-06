@@ -52,6 +52,7 @@ The same goes for this gif, the feeling I felt when it worked after months of bu
 
 
 Let us watch this in slowmotion too.
+
 ![](https://raw.githubusercontent.com/bumpnumb/Pinball/main/Images/Solenoid_working_1_slowmo.gif)
 
 I can stay here and watch this gif the entire day but let us move along.

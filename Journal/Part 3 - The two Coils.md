@@ -85,6 +85,8 @@ Anyways, one print later and we got this:
 Looks good I thought. There are some oscillations, but I think those are due to the second coil being too weak, I wound that one with 1700 turns. For my next attempts I will reduce the number of turns on the second coil, perhaps to something like 1000 or 1200, or maybe I will create a setup to test multiple configurations, keep reading to find out what I did :)
 
 
+# Help from an unexpected hand
+
 I uploaded these gifs to imgur so show friends and family (I had talked about this at work for about half a year by this point and still had nothing to show) and some people commented on my gifs. How about that? I did not know that anyone casually browsed imgur for images, guess I was wrong again :)
 
 Anyways some people commented that the sparks were an issue that had to be fixed or the switches would eventually stop working. They recommended (among other ideas) to use TVS diodes. They are components used to reduce high voltage peaks, which would in theory remove the sparks.
